@@ -1,4 +1,4 @@
-# Inventory — TP Ingeniería de Software (Punto 4)
+# Inventory — Lab despliegue Ingeniería de Software - Equipo 7 Jueves Noche
 
 Este README documenta **solo** lo requerido en el **Punto 4** del TP: puerto por defecto 80, migración de almacenamiento a MySQL y uso del repositorio con los cambios.
 
